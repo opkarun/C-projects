@@ -25,8 +25,4 @@ For the `%s` implementation, I utilized **pointer arithmetic** (`*str++`) to nav
 
 ## 🛠️ Compilation & Usage
 
-Compile using `gcc` with strict flags to ensure production-grade code:
-
-```bash
-gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o karunf
-
+Compile using `gcc` 
